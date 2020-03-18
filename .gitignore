@@ -25,3 +25,5 @@ kombu/tests/cover
 kombu/tests/coverage.xml
 .coverage
 dump.rdb
+.mypy_cache/
+.venv/
